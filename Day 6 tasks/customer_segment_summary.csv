@@ -1,0 +1,4 @@
+customer_segment,customer_count,segment_revenue,average_revenue_per_customer,average_orders_per_customer
+High Value,670,11774223.43,17573.47,25.27
+Medium Value,2077,4647860.72,2237.78,6.66
+Low Value,3131,1321345.01,422.02,1.98
