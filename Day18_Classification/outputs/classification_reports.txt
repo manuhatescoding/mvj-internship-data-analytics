@@ -1,0 +1,22 @@
+LOGISTIC REGRESSION
+===================
+              precision    recall  f1-score   support
+
+      Stayed       0.82      0.97      0.89      1593
+     Churned       0.59      0.19      0.28       407
+
+    accuracy                           0.81      2000
+   macro avg       0.71      0.58      0.59      2000
+weighted avg       0.78      0.81      0.77      2000
+
+
+DECISION TREE
+=============
+              precision    recall  f1-score   support
+
+      Stayed       0.86      0.97      0.91      1593
+     Churned       0.79      0.40      0.53       407
+
+    accuracy                           0.86      2000
+   macro avg       0.83      0.69      0.72      2000
+weighted avg       0.85      0.86      0.84      2000
