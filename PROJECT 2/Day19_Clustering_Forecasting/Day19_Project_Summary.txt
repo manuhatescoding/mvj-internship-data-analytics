@@ -1,0 +1,47 @@
+Day19_Project_Summary
+
+# Day 19 — Clustering and Forecasting
+
+## Project 1: BBMP Ward Clustering
+
+**Objective:** Group BBMP wards based on public-goods characteristics.
+
+**Dataset:** BBMP Ward-wise Public Goods Data.
+
+**Techniques used:**
+- Data inspection and cleaning
+- Feature selection
+- StandardScaler
+- K-means clustering
+- Elbow Method
+- Silhouette Score
+- Cluster profiling
+
+**Key findings:**
+- Number of clusters selected:
+- Important differences between clusters:
+- Main observation:
+
+## Project 2: Bengaluru Rainfall Forecasting
+
+**Objective:** Analyse historical Bengaluru rainfall and compare forecasting methods.
+
+**Dataset:** Bengaluru Monthly Rainfall Data.
+
+**Techniques used:**
+- Time-series preparation
+- Historical rainfall visualisation
+- 3-month moving average
+- 12-month moving average
+- Simple Exponential Smoothing
+- MAE and RMSE evaluation
+
+## Limitations
+
+- Clustering results depend on the selected features and number of clusters.
+- Rainfall forecasts are estimates, not guarantees.
+- Simple exponential smoothing does not explicitly capture seasonality.
+
+## Conclusion
+
+Day 19 provided practical experience in unsupervised machine learning, time-series analysis, moving averages, forecasting, model evaluation, and interpretation of uncertainty.
